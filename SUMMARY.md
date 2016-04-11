@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-   * Acknowledgments
+   * [Acknowledgments](acknowledgments.md)
 
