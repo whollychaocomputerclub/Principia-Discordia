@@ -1,5 +1,9 @@
 {
     "structure": {
         "readme": "introduction.md"
-    }
+    },
+    "plugins": [
+        "styles-sass"
+    ],
+    "pluginsConfig": {}
 }
