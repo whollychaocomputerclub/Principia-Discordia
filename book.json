@@ -3,7 +3,7 @@
         "readme": "introduction.md"
     },
     "plugins": [
-        "-styles-sass"
+        "styles-sass"
     ],
     "pluginsConfig": {}
 }
