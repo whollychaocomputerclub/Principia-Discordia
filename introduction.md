@@ -1,4 +1,4 @@
-#Principia Discordia, 8th Edition
+# Principia Discordia, 8th Edition
 
 We are proud to present to you a new edition of the preeminent Principia Discordia. This eighth edition encompasses material from the classic first, fourth, and fifth editions, as well as offering it's own unique contribution to the discordian corpus. In the spirit of any edition of note the eighth edition of Principia Discordia is a public domain work released under a copyleft license. Do with it what you like, fnord, as it will likely do the same with you.
 
