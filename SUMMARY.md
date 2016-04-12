@@ -8,4 +8,5 @@
    * [Preface](preface.md)
 * [Discordianism](discordianism.md)
    * [The Discordian Society](the_discordian_society.md)
+   * Philosophy
 
