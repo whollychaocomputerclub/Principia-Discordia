@@ -5,5 +5,6 @@
    * [Copyright](copyright.md)
    * [Acknowledgments](acknowledgments.md)
    * [Preface](preface.md)
+* [Introduction](introduction.md)
 * [Discordianism](discordianism.md)
 
