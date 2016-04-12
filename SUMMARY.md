@@ -7,4 +7,5 @@
    * [Preface](preface.md)
 * [Introduction](introduction.md)
 * [Discordianism](discordianism.md)
+   * The Discordian Society
 
