@@ -9,5 +9,5 @@
 * [Discordianism](discordianism.md)
    * [The Discordian Society](the_discordian_society.md)
    * [Philosophy](philosophy.md)
-   * The Sacred Chao
+   * [The Sacred Chao](the_sacred_chao.md)
 
