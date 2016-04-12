@@ -1,5 +1,0 @@
-# Principia Discordia, 8th Edition
-
-We are proud to present to you a new edition of the preeminent Principia Discordia. This eighth edition encompasses material from the classic first, fourth, and fifth editions, as well as offering it's own unique contribution to the discordian corpus. In the spirit of any edition of note the eighth edition of Principia Discordia is a public domain work released under a copyleft license. Do with it what you like, fnord, as it will likely do the same with you.
-
-The undertaking of this new edition was not meant to suggest that previous editions, including the much beloved fourth edition, are no longer relevant. The eighth edition is meant to act as both an homage and a companion to the Principia Discordia’s previous incarnations. The eighth edition was written with the same reverence and spirit of restlessness that inspired both Malaclpyse The Younger and Omar Khayyam Ravenhurst to draft the first edition of Principia Discordia. It is my genuine wish that this book is enjoyed just as those that have come before it. It is also my wish that it is despised just as those that have come before it.
