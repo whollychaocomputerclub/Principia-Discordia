@@ -1,6 +1,6 @@
 # Summary
 
-* [Principia Discordia](introduction.md)
+* [Principia Discordia](principia-discordia.md)
    * [Identification](identification.md)
    * [Copyright](copyright.md)
    * [Acknowledgments](acknowledgments.md)
