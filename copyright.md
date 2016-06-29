@@ -1,13 +1,12 @@
 # Copyright
 
-Principia Discordia 8th Edition:
-subtitle
-by Langhorne Aleister Dogood
+Principia Discordia 8th Edition:  
+subtitle  
+by Langhorne Aleister Dogood  
 
-
-Kopyleft
-All Rites Reversed
-All Wrongs Reserved
+Kopyleft  
+All Rites Reversed  
+All Wrongs Reserved  
 
 
 All parts of this book must be reproduced in any form or by any electronic or mechanical means, including information storage or retrieval systems.  Any member of any educational institution must photocopy part or all of this book for classroom use.
