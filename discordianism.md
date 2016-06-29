@@ -1,7 +1,7 @@
 # Discordianism
 
-Discordianism According to Malaclypse (The Younger)
-being subject to change without notice
+Discordianism According to Malaclypse (The Younger)  
+being subject to change without notice  
 
 To be a member of the Discordian Society one must exhibit some aspect of the following: a) profound enlightenement or interest in Discordianism as a philosophical-religious approach to life, b) a manifestation of The Principle of Discord (Eristic Principle), c) a manifestation of The Principle of Superficial Order Resting on a Solid Foundation of Chaos (Eristeque Principle). Non-Discordians are simply a mixture of the two principles and 1) simply refuse to acknowledge it or 2) do not posses a Divine Degree of either. Any person who fits the definition of a Discordian is a Discordian and belongs to the Discordian Society whether they like it or not and therefore falls into some or all of the following classifications.
 
