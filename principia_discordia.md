@@ -24,8 +24,8 @@ For full benefit to the Head, this book should be read in conjunction with The I
 
 In conclusion, there is no conclusion. Things go on as they always have, getting weirder all the time.
 
-Hail Eris. All hail Discordia. Fnord?
+Hail Eris. All hail Discordia. Fnord?  
 
-Robert Anton Wilson,
-International Arms and Hashish Inc.
-Darra Bazar, Kohat
+Robert Anton Wilson,  
+International Arms and Hashish Inc.  
+Darra Bazar, Kohat  
